@@ -4,4 +4,4 @@ CREATE TABLE `mahasiswa`(
     `jurusan` VARCHAR(25) NOT NULL,
     `nim` CHAR(9) NOT NULL,
     PRIMARY KEY(`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB;
